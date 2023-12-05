@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Paulina @pau-qa
 - 👩‍💼 I recently got my ISTQB and finished 2-months Manual Tester Course
 - 🔥 I’m currently expanding my Software Testing knowledge, now I'm mainly focused on **API testing** 
-- 📫 pau.brzuchalska@gmail.com
-**- My Skills & Tools:** Manual Testing, SQL, DevTools, API Testing through Postman, Swagger, JIRA & Confluence, HTML + CSS basics
-
+- **- My Skills & Tools:** Manual Testing, SQL, DevTools, API Testing through Postman, Swagger, JIRA & Confluence, HTML + CSS basics
+- 📫 You can reach me here pau.brzuchalska@gmail.com
 
 
 <!---
