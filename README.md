@@ -4,7 +4,7 @@
 - I also hold Master's Degree in English 👩‍🎓
 - 📫 You can reach me here pau.brzuchalska@gmail.com
 
-**MY SKILLS & TOOLS**<!---
+**MY SKILLS & TOOLS**
 
 - Manual Testing (apps & web)
 - Bugs Reporting & Test Case writing
