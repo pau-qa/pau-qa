@@ -20,7 +20,7 @@
 
 ✅ **COURSES & CERTIFICATION**
 - ISTQB FL - December 2023 issued by SJSI
-- [Manual Tester Course at Coders Lab Academy]([url](https://coderslab.pl/pl/tester-manualny)https://coderslab.pl/pl/tester-manualny) - 2 months - 168 hours 
+- [Manual Tester Course at Coders Lab Academy]([url](https://coderslab.pl/pl/tester-manualny)https://coderslab.pl/pl/tester-manualny) - 2 months - 168 hours - completed in Dec 2023
 - Power BI Course by Microsoft - ongoing
 
  :arrow_forward: <a href="https://github.com/pau-qa/Bug-Reports"><b>Check **BUGS REPORTED** by me here</b></a>
