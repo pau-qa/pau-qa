@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paulina @pau-qa
 - 👩‍💼 In Dec'23 I got my ISTQB FL and finished 2-months Manual Tester Course
 - 🔥 I’m currently expanding my Software Testing knowledge
-- 💻 vast professional experience, including start-up and IT environment
+- 💻 vast professional experience, including start-up and IT environment, working with social e-commerce app
 - 👩‍🎓 I also hold Master's Degree in English 
 - 📫 You can reach me here pau.brzuchalska@gmail.com
 
