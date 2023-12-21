@@ -23,6 +23,6 @@
 - [Manual Tester Course at Coders Lab Academy]([url](https://coderslab.pl/pl/tester-manualny)https://coderslab.pl/pl/tester-manualny) - 2 months - 168 hours 
 - [Power BI Course]([url](https://learn.microsoft.com/en-us/training/courses/pl-300t00)https://learn.microsoft.com/en-us/training/courses/pl-300t00) - ongoing
 
-[**BUG REPORTS**] <a href="[https://github.com/pau-qa/Bug-Reports]><b>Check my repository for bugs reported by me</b></a>
+ :arrow_forward: **BUG REPORTS** <a href="https://github.com/pau-qa/Bug-Reports"><b>Check my repository for bugs reported by me</b></a>
 
 
