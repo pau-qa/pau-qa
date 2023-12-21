@@ -14,7 +14,7 @@
 - DevTools
 - Swagger
 - JIRA & Confluence
-- SCRUM
+- SCRUM & Agile Methodologies
 - HTML + CSS basics
 - Data Analysis (Tableau, Power BI)
 
