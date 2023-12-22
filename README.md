@@ -16,7 +16,7 @@
 - JIRA & Confluence
 - SCRUM & Agile Methodologies
 - HTML + CSS basics
-- Data Analysis (Tableau, Power BI)
+- Data Analysis basics (Tableau, Power BI)
 
 ✅ **COURSES & CERTIFICATION**
 - ISTQB FL - December 2023 issued by SJSI
