@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paulina @pau-qa
 - 👩‍💼 In Dec'23 I got my ISTQB FL and finished 2-months Manual Tester Course
-- 💻 vast professional experience, including start-up and IT environment, working with social e-commerce app
+- 💻 I possess vast professional experience, including start-up and IT environment, working with social e-commerce app, managing JIRA as one of the Site Admins
 - 🔥 I’m currently expanding my Software Testing knowledge, 21h API course in progress
 - 👩‍🎓 I also hold Master's Degree in English 
 - 📫 You can reach me here pau.brzuchalska@gmail.com
@@ -9,11 +9,11 @@
 
 - Manual Testing (apps & web)
 - Bugs Reporting & Test Case designing
+- JIRA & Confluence
 - SQL
 - API Testing with Postman
-- DevTools (Inspect & Network)
 - Swagger
-- JIRA & Confluence
+- DevTools (Inspect & Network)
 - SCRUM & Agile Methodologies
 - HTML + CSS basics
 - Data Analysis basics (Tableau, Power BI)
