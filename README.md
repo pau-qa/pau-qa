@@ -27,6 +27,7 @@
  
 
 
+
 ✅ **COURSES & CERTIFICATION**
 - ISTQB FL - December 2023 issued by SJSI <a href="https://postimg.cc/ftBNQrQD"><b>**Check here<b>**</a>
 - <a href="https://coderslab.pl/pl/tester-manualny"><b> **Manual Tester Course at Coders Lab Academy** </b></a> 2 months - 168hours - completed in Dec 2023
