@@ -18,6 +18,13 @@
 - SCRUM & Agile Methodologies
 - HTML + CSS basics
 - Data Analysis basics (Tableau, Power BI)
+  
+ :arrow_forward: <a href="https://github.com/pau-qa/Bug-Reports"><b>Check **BUGS REPORTED** by me here</b></a>
+ 
+ :arrow_forward: <a href="https://github.com/pau-qa/Test-Cases-"><b>Check **TEST CASES** written by me here</b></a>
+
+ :arrow_forward: <a href="https://github.com/pau-qa/SQL-queries"><b>Check **SQL QUERIES** written by me here</b></a>
+ 
 
 ✅ **COURSES & CERTIFICATION**
 - ISTQB FL - December 2023 issued by SJSI <a href="https://postimg.cc/ftBNQrQD"><b>**Check here<b>**</a>
@@ -26,8 +33,3 @@
 - Power BI Course by Microsoft - ongoing
 - Maraton Testowania GoIT - 7 day of testing including manual/exploratory testing/ reporting bugs in Jira/writing test cases in TestRail/retests
 
- :arrow_forward: <a href="https://github.com/pau-qa/Bug-Reports"><b>Check **BUGS REPORTED** by me here</b></a>
- 
- :arrow_forward: <a href="https://github.com/pau-qa/Test-Cases-"><b>Check **TEST CASES** written by me here</b></a>
-
- :arrow_forward: <a href="https://github.com/pau-qa/SQL-queries"><b>Check **SQL QUERIES** written by me here</b></a>
