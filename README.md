@@ -5,6 +5,7 @@
 - 👩‍🎓 I also hold Master's Degree in English and confidently communicate in Spanish
 - As a hobby I am developing my website with Wordpress <a href="https://abroadlog.co.uk/"><b>**Check here<b>**</a>
 - 📫 You can reach me here pau.brzuchalska@gmail.com
+- 🔽 Check my work below
 
 ✅ **MY SKILLS & TOOLS**
 
