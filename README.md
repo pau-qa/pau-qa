@@ -3,6 +3,7 @@
 -  **💻 I possess vast professional experience, including start-up and IT environment, working with social e-commerce app, managing JIRA, Conflluence App Store Connect as one of the Site Admins, working with technical documentation - check my CV for more details**
 - 👍 Hands-on experience with testing e-commerce app based on PrestaShop (mobile & web)
 - 👩‍🎓 I also hold Master's Degree in English and confidently communicate in Spanish
+- As a hobby I am developing my website with Wordpress <a href="https://abroadlog.co.uk/"><b>**Check here<b>**</a>
 - 📫 You can reach me here pau.brzuchalska@gmail.com
 
 ✅ **MY SKILLS & TOOLS**
