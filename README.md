@@ -21,7 +21,7 @@
   
  :arrow_forward: <a href="https://github.com/pau-qa/Bug-Reports"><b>Check **BUGS REPORTED** by me here</b></a>
  
- :arrow_forward: <a href="https://github.com/pau-qa/Test-Cases-"><b>Check **TEST CASES** written by me here</b></a>
+ :arrow_forward: <a href="https://github.com/pau-qa/Test-Cases-"><b>Check **TEST CASES** designed by me here</b></a>
 
  :arrow_forward: <a href="https://github.com/pau-qa/SQL-queries"><b>Check **SQL QUERIES** written by me here</b></a>
  
