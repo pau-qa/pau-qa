@@ -20,7 +20,7 @@
 
 ✅ **COURSES & CERTIFICATION**
 - ISTQB FL - December 2023 issued by SJSI
-- <a href="[https://github.com/pau-qa/Bug-Reports](https://coderslab.pl/pl/tester-manualny)https://coderslab.pl/pl/tester-manualny)"><b>Check **Manual Tester Course at Coders Lab Academy** </b></a> 2 months - 168hours - completed in Dec 2023
+- <a href="https://coderslab.pl/pl/tester-manualny)https://coderslab.pl/pl/tester-manualny"><b> **Manual Tester Course at Coders Lab Academy** </b></a> 2 months - 168hours - completed in Dec 2023
 - [API - Postman: The Complete Guide - REST API Testing - Udemy] ([url](https://www.udemy.com/course/postman-the-complete-guide/learn/lecture/9134152#content) 
 
 - Power BI Course by Microsoft - ongoing
