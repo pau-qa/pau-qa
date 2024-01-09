@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paulina @pau-qa
-- 👩‍💼 In Dec'23 I got my ISTQB FL and finished 2-months Manual Tester Course
 -  **💻 I possess vast professional experience, including start-up and IT environment, working with social e-commerce app, managing JIRA, Conflluence App Store Connect as one of the Site Admins, working with technical documentation - check my CV for more details**
+- 👩‍💼 In Dec'23 I got my ISTQB FL and finished 2-months Manual Tester Course
 - 👍 Hands-on experience with testing e-commerce app based on PrestaShop (mobile & web)
 - 👩‍🎓 I also hold Master's Degree in English and confidently communicate in Spanish
 - As a hobby I am developing my website with Wordpress <a href="https://abroadlog.co.uk/"><b>**Check here<b>**</a>
