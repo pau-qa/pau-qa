@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paulina @pau-qa
+- 👋 Hi, I’m Paulina 
 -  **💻 I possess vast professional experience, including start-up and IT environment, working with social e-commerce app, managing JIRA, Conflluence, App Store Connect as one of the Site Admins, working with technical documentation - more details in my CV**
 - 👩‍💼 In Dec'23 I got my ISTQB FL and finished 2-months Manual Tester Course
 - 👍 I got hands-on experience with testing e-commerce app based on PrestaShop (mobile & web)
