@@ -3,7 +3,7 @@
 - 👩‍💼 In Dec'23 I got my ISTQB FL and finished 2-months Manual Tester Course
 - 👍 I got hands-on experience with testing e-commerce app based on PrestaShop (mobile & web)
 - 👩‍🎓 I also hold Master's Degree in English and confidently communicate in Spanish
-- ✴️ As a hobby I am developing my website with Wordpress and Webwave
+- ✴️ As a hobby I am developing websites with Wordpress and Webwave
 - 📫 You can reach me here pau.brzuchalska@gmail.com
 - 🔽 Check my work below
 
