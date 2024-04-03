@@ -10,7 +10,9 @@
 
 - Manual Testing (apps & web)
 - Bugs Reporting & Test Case designing
-- JIRA & Confluence
+- JIRA
+- Confluence
+- ServiceNOW
 - SQL (Oracle SQL Developer, pgAdmin)
 - API Testing with Postman
 - Swagger
