@@ -2,6 +2,7 @@
 -  **💻 I possess vast professional experience, including start-up and IT environment, working with social e-commerce app, document management platform integrated to document search platform, heavy-detailed documentation editor app. I was also managing JIRA, Conflluence, App Store Connect as one of the Site Admins> Currently as a Tester I am working with Postman, Browserstack, relational DBs - Oracle SQL Developer, pgAdmin,tc. - more details in my CV**
 - 👩‍💼 In Dec'23 I got my **ISTQB** FL and finished 2-months Manual Tester Course
 - 👩‍🎓 I also hold Master's Degree in English and confidently communicate in Spanish
+
 -◾ In my spare time I am learning JavaScript
 - ✴️ As a hobby I am travelling, painting  and doing sports
 - 📫 You can reach me here pau.brzuchalska@gmail.com
