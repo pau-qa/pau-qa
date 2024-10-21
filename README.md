@@ -13,10 +13,10 @@ Currently as a Tester I am working with Postman, Browserstack, relational DBs - 
 
 - Manual Testing (apps & web)
 - iOS mobile testing 
-- Bugs Reporting & Test Case designing
 - JS Basics
 - HTML + CSS
 - API Testing with Postman
+- Browserstack
 - DevTools 
 - JIRA
 - Confluence
