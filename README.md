@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paulina, currently working as a **Software Tester in Pharma Industry**
--  **💻 I possess vast professional experience, including start-up and IT environment, working with social e-commerce app, document management platform integrated to document search platform and heavy-detailed documentation generator/editor app. I was also managing JIRA, Conflluence, App Store Connect as one of the Site Admins.
+-  **💻 I possess vast professional experience, including start-up and IT environment, working with social e-commerce app, document management platform integrated to document search platform and heavy-detailed documentation generator/editor app. I was also managing JIRA, Conflluence, App Store Connect as one of the Site Admins.**
   
 Currently as a Tester I conduct manual web & mobile tests, I am working with Postman, Browserstack, relational DBs - Oracle SQL Developer, pgAdmin, etc. - more details in my CV**
 
