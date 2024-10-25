@@ -17,7 +17,7 @@
 
 ✅ **MY SKILLS & TOOLS**
 
-- Manual Testing (webb & mobile)
+- Manual Testing (web & mobile)
 - iOS mobile testing 
 - **JS Basics**
 - HTML + CSS
