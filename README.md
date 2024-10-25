@@ -3,7 +3,9 @@
   
 - Currently as a Tester, I conduct manual web & mobile tests, I am working with Postman, Browserstack, relational DBs - Oracle SQL Developer, pgAdmin, - more details available in my **CV** 
 
-- <p style="color:yellow, font-size:15px">I have always been intersted in website builds, that is why I continue growing my knowledge - and in the spare time I am learning **JavaScript**. I have a solid understanding of HTML & CSS. In the near future I would like to also focus on automation frameworks.</p>
+- **I have always been intersted in website builds, that is why I continue growing my knowledge - and in the spare time I am learning **JavaScript**. I have a solid understanding of HTML & CSS. In the near future I would like to also focus on automation frameworks.**
+
+
 
 
 - 👩‍💼 In Dec'23 I got my **ISTQB** FL and finished 2-months Manual Tester Course
