@@ -13,7 +13,7 @@
 - 💃 I can effectively communicate in Spanish
 - ✴️ As a hobby I am travelling, painting and practising sports
 - 📫 You can reach me also here pau.brzuchalska@gmail.com
-- 🔽 Check my work below
+- ⏬ Check my work below
 
 ✅ **MY SKILLS & TOOLS**
 
