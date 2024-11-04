@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Paulina, currently working as a **Software Tester in Pharma Industry**
--  **💻 I possess vast professional experience, including start-up and IT environment, working with social e-commerce app, document management platform integrated to document search platform and heavy-detailed documentation generator/editor app.**
+-  **💻 I possess vast professional experience, including start-up and IT environment, working with document management platform integrated to document search platform, 
+heavy-detailed documentation generator/editor app and social e-commerce app.**
   
 - Currently as a Tester, I conduct manual web & mobile tests, I am working with Postman, Browserstack, relational DBs - Oracle SQL Developer, pgAdmin, - more details available in my **CV** 
 
-- **I have always been intersted in website builds, that is why I continue growing my knowledge - and in the spare time I am learning **JavaScript**. I have a solid understanding of HTML & CSS. In the near future I would like to also focus on automation frameworks.**
+- **I have always been intersted in website builds, that is why I continue growing my knowledge - and in the spare time I am learning **JavaScript**. I have a solid understanding of HTML & CSS. In the near future, I would like to also focus on automation frameworks.**
 
 
 
