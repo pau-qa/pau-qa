@@ -2,9 +2,9 @@
 -  **💻 I possess vast professional experience, including start-up and IT environment, working with document management platform integrated to document search platform, 
 heavy-detailed documentation generator/editor app and social e-commerce app.**
   
-- Currently as a Tester, I conduct manual web & mobile tests, I am working with Postman, Browserstack, relational DBs - Oracle SQL Developer, pgAdmin, - more details available in my **CV** 
+- Currently as a Tester, I conduct manual web & mobile tests, design test cases, review & refine User Stories, I work with Postman, Browserstack, relational DBs - Oracle SQL Developer, pgAdmin, etc. - more details available in my **CV** 
 
-- **I have always been intersted in website builds, that is why I continue growing my knowledge - and in the spare time I am learning **JavaScript**. I have a solid understanding of HTML & CSS. In the near future, I would like to also focus on automation frameworks.**
+- **I have always been intersted in website builds, that is why I continue growing my knowledge - and in the spare time I am learning **JavaScript**. I have a solid understanding of HTML & CSS. In the near future, I would like to also focus on automation, mainly using Playwright.**
 
 
 
@@ -19,7 +19,6 @@ heavy-detailed documentation generator/editor app and social e-commerce app.**
 ✅ **MY SKILLS & TOOLS**
 
 - Manual Testing (web & mobile)
-- iOS mobile testing 
 - **JS Basics**
 - HTML + CSS
 - API Testing with Postman
@@ -29,6 +28,7 @@ heavy-detailed documentation generator/editor app and social e-commerce app.**
 - Confluence
 - ServiceNOW
 - SQL (Oracle SQL Developer, pgAdmin)
+- Figma, Miro
 - User Stories review & refinement
 - SCRUM & Agile Methodologies
 
