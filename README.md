@@ -29,6 +29,7 @@ heavy-detailed documentation generator/editor app and social e-commerce app.**
 - ServiceNOW
 - SQL (Oracle SQL Developer, pgAdmin)
 - Figma, Miro
+- good understanding of UX
 - User Stories review & refinement
 - SCRUM & Agile Methodologies
 
