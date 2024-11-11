@@ -33,7 +33,7 @@ heavy-detailed documentation generator/editor app and social e-commerce app.**
 - SCRUM & Agile Methodologies
 
 
- ❗ <a href="https://github.com/pau-qa/my-portfolio"><b>Check **MY PORTFOLIO in HTML & CSS**  done by me here</b></a>
+ ❗ <a href="https://github.com/pau-qa/pau-qa.github.io"><b>Check **MY PORTFOLIO in HTML & CSS**  done by me here</b></a>
 
  ➡️ <a href="https://github.com/pau-qa/Bug-Reports"><b>Check **BUGS REPORTED** by me here</b></a>
  
