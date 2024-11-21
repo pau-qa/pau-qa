@@ -47,7 +47,7 @@ heavy-detailed documentation generator/editor app and social e-commerce app.**
 
 ✅ **COURSES & CERTIFICATION**
 - ISTQB FL - December 2023 issued by SJSI <a href="https://postimg.cc/ftBNQrQD"><b>**Check here<b>**</a>
-- Manual Tester Course at Coders Lab Academy2 months - 168hours - completed in Dec 2023
+- Manual Tester Course at Coders Lab Academy2 months - 168hours - completed in 2023
 - <a href="https://www.udemy.com/course/postman-the-complete-guide/"><b> **API - Postman: The Complete Guide - REST API Testing - Udemy** </b></a>
 - Maraton Testowania GoIT - 7 day of testing including manual/exploratory testing/ reporting bugs in Jira/writing test cases in TestRail/retests
 
