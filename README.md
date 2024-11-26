@@ -4,7 +4,7 @@ heavy-detailed documentation generator/editor app and social e-commerce app.**
   
 - Currently as a Tester, I conduct manual web & mobile tests, design test cases, review & refine User Stories, I work with Postman, Browserstack, relational DBs - Oracle SQL Developer, pgAdmin, etc. - more details available in my **CV** 
 
-- **I have always been intersted in website builds, that is why I continue growing my knowledge - and in the spare time I am learning **JavaScript**. I have a solid understanding of HTML & CSS. In the near future, I would like to also focus on automation, mainly using Playwright.**
+- **I have always been intersted in website builds, that is why I continue growing my knowledge - and in the spare time I am learning **JavaScript**. I have a solid understanding of HTML & CSS. In the future, I would like to also focus on automation, mainly using Playwright.**
 
 
 
