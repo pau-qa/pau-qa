@@ -1,15 +1,9 @@
-- 👋 Hi, I’m Paulina, currently working as a **Software Tester in Pharma Industry**
--  **💻 I possess vast professional experience, including start-up and IT environment, working with document management platform integrated to document search platform, 
-heavy-detailed documentation generator/editor app and social e-commerce app.**
+- 👋 Hi, I’m Paulina, ISTQB certified **QA Specialist** with experience in pharma industry, and fintech. I also possess vast experience in start-up environtment developing social e-commerce app. **Currently ensuring the quality not of investment portfolio and financial advisory web apps, but also in processes and team practices.**
   
-- Currently as a Tester, I conduct manual web & mobile tests, design test cases, review & refine User Stories, I work with Postman, Browserstack, relational DBs - Oracle SQL Developer, pgAdmin, etc. - more details available in my **CV** 
-
-- **I have always been intersted in website builds, that is why I continue growing my knowledge - and in the spare time I am learning **JavaScript**. I have a solid understanding of HTML & CSS. In the future, I would like to also focus on automation, mainly using Playwright.**
+- I have solid background in manual testing, including mobile and API testing. I am also knowledgeable about HTML & CSS with a keen interest to learn more JavaScript. In the future, I would like to also focus on automation, mainly using Playwright.** - more details available in my **CV** 
 
 
-
-
-- 👩‍💼 In Dec'23 I got my **ISTQB** FL and finished 2-months Manual Tester Course
+- 👩‍💼 In Dec'23 I got my **ISTQB** FL
 - 🇬🇧 I am an English language freak! I hold Master's Degree in English Language and Literature and spent 7 years in England 
 - 💃 I can effectively communicate in Spanish
 - ✴️ As a hobby I am travelling, painting and practising sports
