@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paulina, ISTQB certified **QA Specialist** with experience in pharma industry, and fintech. I also possess vast experience in start-up environtment developing social e-commerce app. **Currently ensuring the quality not of investment portfolio and financial advisory web apps, but also in processes and team practices.**
+- 👋 Hi, I’m Paulina, ISTQB certified **QA Specialist** with experience in pharma industry, and fintech. I also possess vast experience in start-up environtment developing social e-commerce app. **Currently ensuring the quality not only of investment portfolio and financial advisory web apps, but also in processes and team practices.**
   
 - I have solid background in manual testing, including mobile and API testing. I am also knowledgeable about HTML & CSS with a keen interest to learn more JavaScript. In the future, I would like to also focus on automation, mainly using Playwright.** - more details available in my **CV** 
 
